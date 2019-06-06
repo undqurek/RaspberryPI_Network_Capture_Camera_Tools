@@ -1,0 +1,11 @@
+[Unit]
+Description=MetalSoft camera server
+After=network.target
+
+[Service]
+ExecStart=/home/pi/Projects/DepthDetection/RPiCapture-client-server/rpi-server/server
+ExecStop=/bin/kill $MAINPID
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RPiCapture.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LEFT_CAMERA_HOST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.100</Value>
+    </Setting>
+    <Setting Name="RIGHT_CAMERA_HOST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.101</Value>
+    </Setting>
+    <Setting Name="LEFT_CAMERA_ROTATION" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LEFT_CAMERA_X_SHIFT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="LEFT_CAMERA_Y_SHIFT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RIGHT_CAMERA_ROTATION" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RIGHT_CAMERA_X_SHIFT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="RIGHT_CAMERA_Y_SHIFT" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
